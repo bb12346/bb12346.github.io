@@ -40,7 +40,9 @@ education:
       institution: National University of Singapore
       year: 2022 - 2026
 
-
+Academic Services:
+  - Reviewer: TPAMI, ICCV, CVPR, ECCV, AAAI
+  - Teaching Assistant: EE5731 Visual Computing, EE5904 Neural Network, EE5904 Neural Network CEG5301 Machine Learning with Applications (NUS ECE)
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
