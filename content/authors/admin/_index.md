@@ -3,11 +3,11 @@
 title: 林贝贝
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lin Beibei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Beibei
+last_name: Lin
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: National University 
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
