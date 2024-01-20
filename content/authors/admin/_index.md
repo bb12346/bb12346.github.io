@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-Lin Beibei is currently a Ph.D. student at the National University of Singapore, under the supervision of Prof. [Prof. Robby Tan](http://tanrobby.github.io). His research interests encompass computer vision, pattern recognition, and image and video processing.
+Lin Beibei is currently a Ph.D. student at the National University of Singapore, under the supervision of Prof. [Prof. Robby Tan](http://tanrobby.github.io). His research interests include computer vision, pattern recognition, and image and video processing.
 {style="text-align: justify;"}
