@@ -2,7 +2,7 @@
 title: "NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction"
 summary: An example of using the in-built project page.
 tags:
-  - Image and Video Enhancement
+  - 'Image and Video Enhancement'
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

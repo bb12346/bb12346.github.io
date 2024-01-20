@@ -173,9 +173,9 @@ sections:
         - name: All
           tag: '*'
         - name: Image and Video Enhancement
-          tag: Image and Video Enhancement
+          tag: 'Image and Video Enhancement'
         - name: Gait Recognition
-          tag: Gait Recognition
+          tag: 'Gait Recognition'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
