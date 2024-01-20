@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National University 
+  - name: National University of Singapore
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,9 +29,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nighttime Image/Video Enhancement
+  - Gait Recognition
 
 # Education to show in About widget
 education:
