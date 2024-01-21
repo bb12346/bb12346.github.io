@@ -34,7 +34,7 @@ abstract: Gait recognition which is one of the most important and effective biom
 
 
 # Summary. An optional shortened abstract.
-summary: ACM Multimedia (ACM MM) 2023
+summary: ACM Multimedia (ACM MM) 2020
 
 tags: []
 
