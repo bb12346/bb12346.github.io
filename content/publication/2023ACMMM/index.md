@@ -37,7 +37,7 @@ abstract: Visibility in hazy nighttime scenes is frequently reduced by multiple 
 
 
 # Summary. An optional shortened abstract.
-summary: Accepted by ACM MM 23
+summary: ACM Multimedia (ACM MM) 2023
 
 tags: []
 
