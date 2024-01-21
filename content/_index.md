@@ -200,7 +200,7 @@ sections:
         folders:
           - publication
         featured_only: true
-      order: asc
+      order: desc
     design:
       columns: '2'
       view: card
