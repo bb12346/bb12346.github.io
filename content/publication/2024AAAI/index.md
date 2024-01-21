@@ -42,7 +42,7 @@ abstract: Existing deep-learning-based methods for nighttime video deraining rel
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

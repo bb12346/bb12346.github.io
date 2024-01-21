@@ -42,7 +42,7 @@ abstract: Visibility in hazy nighttime scenes is frequently reduced by multiple 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
